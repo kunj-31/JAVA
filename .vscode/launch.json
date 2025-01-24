@@ -1,0 +1,420 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "gamerandom",
+            "request": "launch",
+            "mainClass": "gamerandom",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "gauess",
+            "request": "launch",
+            "mainClass": "gauess",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "game",
+            "request": "launch",
+            "mainClass": "game",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "game_2",
+            "request": "launch",
+            "mainClass": "game_2",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "cwh_50_ex3sol",
+            "request": "launch",
+            "mainClass": "cwh_50_ex3sol",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "game2",
+            "request": "launch",
+            "mainClass": "game2",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "cwh_42",
+            "request": "launch",
+            "mainClass": "CH_9.cwh_42",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "chellenge",
+            "request": "launch",
+            "mainClass": "CH_9.chellenge",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "cwh_40_ques",
+            "request": "launch",
+            "mainClass": "CH_9.cwh_40_ques",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "cwh_40",
+            "request": "launch",
+            "mainClass": "CH_9.cwh_40",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "practise_8",
+            "request": "launch",
+            "mainClass": "PRCTISESET.SET_8.practise_8",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "cwh_38_custom_class",
+            "request": "launch",
+            "mainClass": "CH_8.cwh_38_custom_class",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "cwh_35methods",
+            "request": "launch",
+            "mainClass": "PRCTISESET.SET_7.cwh_35methods",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "cwh_34",
+            "request": "launch",
+            "mainClass": "CH_7.cwh_34",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "cwh_33",
+            "request": "launch",
+            "mainClass": "CH_7.cwh_33",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "cwhy_32",
+            "request": "launch",
+            "mainClass": "CH_7.cwhy_32",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "cwh_31",
+            "request": "launch",
+            "mainClass": "CH_7.cwh_31",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "PRCTISESET.Array_1.Array",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "string_1",
+            "request": "launch",
+            "mainClass": "CH_3.string_1",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "string_2",
+            "request": "launch",
+            "mainClass": "CH_3.string_2",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "CH_4.Switch",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "absulatue",
+            "request": "launch",
+            "mainClass": "CH_4.absulatue",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "condi_1",
+            "request": "launch",
+            "mainClass": "CH_4.condi_1",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "digit",
+            "request": "launch",
+            "mainClass": "CH_4.digit",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "divisibility",
+            "request": "launch",
+            "mainClass": "CH_4.divisibility",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "divisible",
+            "request": "launch",
+            "mainClass": "CH_4.divisible",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "else_if",
+            "request": "launch",
+            "mainClass": "CH_4.else_if",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "gretest",
+            "request": "launch",
+            "mainClass": "CH_4.gretest",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "leapyear",
+            "request": "launch",
+            "mainClass": "CH_4.leapyear",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "logical",
+            "request": "launch",
+            "mainClass": "CH_4.logical",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "maths",
+            "request": "launch",
+            "mainClass": "CH_4.maths",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "odd_even",
+            "request": "launch",
+            "mainClass": "CH_4.odd_even",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "ractangle",
+            "request": "launch",
+            "mainClass": "CH_4.ractangle",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "triangle",
+            "request": "launch",
+            "mainClass": "CH_4.triangle",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "break_continue",
+            "request": "launch",
+            "mainClass": "CH_5.break_continue",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "do_while",
+            "request": "launch",
+            "mainClass": "CH_5.do_while",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "CH_5.forloop",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "whilellop",
+            "request": "launch",
+            "mainClass": "CH_5.whilellop",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "CWH_27",
+            "request": "launch",
+            "mainClass": "CH_6.CWH_27",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "CH_6.array",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "array_2",
+            "request": "launch",
+            "mainClass": "CH_6.array_2",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "CH_1_1",
+            "request": "launch",
+            "mainClass": "PRCTISESET.CH_1.CH_1_1",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "CH_1_2",
+            "request": "launch",
+            "mainClass": "PRCTISESET.CH_1.CH_1_2",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "CH_1_3",
+            "request": "launch",
+            "mainClass": "PRCTISESET.CH_1.CH_1_3",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "CH_1_4",
+            "request": "launch",
+            "mainClass": "PRCTISESET.CH_1.CH_1_4",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "CH_1_5",
+            "request": "launch",
+            "mainClass": "PRCTISESET.CH_1.CH_1_5",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "practice_2",
+            "request": "launch",
+            "mainClass": "PRCTISESET.CH_2.practice_2",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "practiceset_3",
+            "request": "launch",
+            "mainClass": "PRCTISESET.SET_3.practiceset_3",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "Prac_4",
+            "request": "launch",
+            "mainClass": "PRCTISESET.SET_4.Prac_4",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "practise_5",
+            "request": "launch",
+            "mainClass": "PRCTISESET.SET_5.practise_5",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "print",
+            "request": "launch",
+            "mainClass": "PRCTISESET.SET_5.print",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "practise_6",
+            "request": "launch",
+            "mainClass": "PRCTISESET.SET_6.practise_6",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "add",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "avaerage",
+            "request": "launch",
+            "mainClass": "avaerage",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "literalas",
+            "request": "launch",
+            "mainClass": "literalas",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "rock_paper",
+            "request": "launch",
+            "mainClass": "rock_paper",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "takinginput",
+            "request": "launch",
+            "mainClass": "takinginput",
+            "projectName": "JAVA_5ee3c2d8"
+        }
+    ]
+}
