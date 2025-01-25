@@ -24,6 +24,7 @@ class Game {
         System.out.println("Guess the number");
         Scanner sc = new Scanner(System.in);
         inputNumber = sc.nextInt();
+        sc.close();
     }
 
     boolean isCorrectNumber() {
@@ -42,7 +43,7 @@ class Game {
 
 }
 
-public class cwh_50_ex3sol {
+public class game_2 {
     public static void main(String[] args) {
         Game g = new Game();
         boolean b = false;
