@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "chellenge_51",
+            "request": "launch",
+            "mainClass": "CH_10.chellenge_51",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
             "name": "gamerandom",
             "request": "launch",
             "mainClass": "gamerandom",
