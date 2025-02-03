@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "practice_12",
+            "request": "launch",
+            "mainClass": "PRCTISESET.SET_12.practice_12",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "access_Modifers",
+            "request": "launch",
+            "mainClass": "CH_12.access_Modifers",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
             "name": "Cwh_10",
             "request": "launch",
             "mainClass": "PRCTISESET.SET_10.Cwh_10",
