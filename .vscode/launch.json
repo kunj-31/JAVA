@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "nested_tryCatch",
+            "request": "launch",
+            "mainClass": "CH_14.nested_tryCatch",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "Handling_Exception",
+            "request": "launch",
+            "mainClass": "CH_14.Handling_Exception",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
             "name": "practice_12",
             "request": "launch",
             "mainClass": "PRCTISESET.SET_12.practice_12",
