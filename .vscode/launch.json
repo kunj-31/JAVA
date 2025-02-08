@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ps_14",
+            "request": "launch",
+            "mainClass": "PRCTISESET.SET_14.ps_14",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
             "name": "nested_tryCatch",
             "request": "launch",
             "mainClass": "CH_14.nested_tryCatch",
