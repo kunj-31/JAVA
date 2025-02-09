@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array_Dequeue",
+            "request": "launch",
+            "mainClass": "Collections.Array_Dequeue",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "Linkedlist",
+            "request": "launch",
+            "mainClass": "Collections.Linkedlist",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist_string",
+            "request": "launch",
+            "mainClass": "Collections.Arraylist_string",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist",
+            "request": "launch",
+            "mainClass": "Collections.Arraylist",
+            "projectName": "JAVA_5ee3c2d8"
+        },
+        {
+            "type": "java",
             "name": "ps_14",
             "request": "launch",
             "mainClass": "PRCTISESET.SET_14.ps_14",
